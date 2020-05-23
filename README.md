@@ -85,6 +85,7 @@ console.log(await api.put('https://jsonplaceholder.typicode.com/todos/1',{
 </code></pre>
 </details>
 <br>
+
 ## License
 
 [MIT](LICENSE)
